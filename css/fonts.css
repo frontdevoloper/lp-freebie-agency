@@ -1,0 +1,7 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'Oswald';
+  src: local("☺"), url("../fonts/Oswaldheavy.woff") format("woff"), url("../fonts/Oswaldheavy.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
